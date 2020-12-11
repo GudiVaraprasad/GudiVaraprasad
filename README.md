@@ -22,6 +22,8 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 [<img height="40" align="left" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
 [<img height="40" align="left" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />](https://www.hackerrank.com/gudi_varaprasad)
 [<img height="40" align="left" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
+
+<br>
 <hr />
 <br>
 
@@ -45,6 +47,6 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <br>
 <hr />
 <br>
-
+<br>
 
 ![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical)
