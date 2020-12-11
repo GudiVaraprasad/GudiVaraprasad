@@ -11,17 +11,17 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 
 ## Connect with **me** 🔗
 
-[<img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/varaprasad-gudi-0007b4129/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/Gudi_Varaprasad)
-[<img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/crypto._kid/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/Varaprasad.Gudi/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:gudi.varaprasad@gmail.com)
-[<img height="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />](https://www.youtube.com/channel/UCR2gr-sBjqnH0gW-Ca6i7Hw?view_as=subscriber)
-[<img height="40" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />](https://dev.to/varaprasad_gudi)
-[<img height="40" src="https://img.icons8.com/fluent/452/project.png" />](https://gudivaraprasad.github.io/Projects/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
-[<img height="40" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />](https://www.hackerrank.com/gudi_varaprasad)
-[<img height="40" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/varaprasad-gudi-0007b4129/)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/Gudi_Varaprasad)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/crypto._kid/)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/Varaprasad.Gudi/)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:gudi.varaprasad@gmail.com)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />](https://www.youtube.com/channel/UCR2gr-sBjqnH0gW-Ca6i7Hw?view_as=subscriber)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />](https://dev.to/varaprasad_gudi)
+[<img height="40" align="left" src="https://img.icons8.com/fluent/452/project.png" />](https://gudivaraprasad.github.io/Projects/)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
+[<img height="40" align="left" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />](https://www.hackerrank.com/gudi_varaprasad)
+[<img height="40" align="left" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
 
 <br />
 
@@ -29,13 +29,13 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="40px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="R" width="40px" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" />
 <img align="left" alt="opencv" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="bootstrap" width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="PHP" width="40px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
