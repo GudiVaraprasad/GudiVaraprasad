@@ -13,14 +13,14 @@
 ## Connect with **me**
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/varaprasad-gudi-0007b4129/)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Gudi_Varaprasad)
-[<img height="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/crypto._kid/)
-[<img height="30" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />](https://www.facebook.com/Varaprasad.Gudi/)
-[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gudi.varaprasad@gmail.com)
-[<img height="30" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" />](https://www.youtube.com/channel/UCR2gr-sBjqnH0gW-Ca6i7Hw?view_as=subscriber)
-[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/varaprasad_gudi)
-[<img height="30" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
-[<img height="30" src="https://img.shields.io/badge/https://www.vectorlogo.zone/logos/quora/quora-ar21.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
+[<img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />](https://twitter.com/Gudi_Varaprasad)
+[<img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />](https://www.instagram.com/crypto._kid/)
+[<img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />](https://www.facebook.com/Varaprasad.Gudi/)
+[<img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-logo.svg" />](mailto:gudi.varaprasad@gmail.com)
+[<img height="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" />](https://www.youtube.com/channel/UCR2gr-sBjqnH0gW-Ca6i7Hw?view_as=subscriber)
+[<img height="40" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />](https://dev.to/varaprasad_gudi)
+[<img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
+[<img height="40" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
 <br />
 <hr />
 
