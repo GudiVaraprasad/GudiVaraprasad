@@ -1,16 +1,11 @@
-### Hi there 👋
-# I am Gudi Varaprasad
+### Hello Everyone 👋
+# I am Gudi Varaprasad 
 
-## About
-- 🏄‍ Front End Developer.
-- 👯 I’m looking to collaborate on  Open Source Projects 💖
-- 🔭 I'm currently a core team member of Null Chapter VIT University.
-- 🌱 I love to work with ReactJs and Django.
-- ✍ I also write Blogs, generally tech related.
-- 🤔 I'm learning Blockchain.
-- 📫 How to reach me: [Email me](mailto:gudi.varaprasad@gmail.com)
+## About 👨‍🎓
 
-## Connect with **me**
+I, Gudi Varaprasad, am an out of the box thinker with substantial skills in various fields. With an avid interest in web security since the age of 14, I have now mastered various technologies, frameworks, and tools. I constantly challenge myself to develop new ideas and apps. Being an all-rounder, I have many hobbies like writing, badminton, editing, dancing, designing. My strong communication skills and leadership abilities have allowed me to take on new endeavors and succeed. I am a guy with a plan of attack and always focus on the upshot rather than the problem. You can reach out to me : [Email me](mailto:gudi.varaprasad@gmail.com)
+
+## Connect with **me** 🔗
 
 [<img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/varaprasad-gudi-0007b4129/)
 [<img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/Gudi_Varaprasad)
@@ -23,11 +18,13 @@
 [<img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
 [<img height="40" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />](https://www.hackerrank.com/gudi_varaprasad)
 [<img height="40" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
+
+<br />
 <br />
 <hr />
 
 
-## Languages Libraries and Tools I worked
+## Languages Libraries and Tools 👨‍💻
 
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -45,6 +42,7 @@
 <img align="left" alt="p5js" width="40px" src="https://p5js.org/assets/img/p5js.svg" />
 <img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="canva" width="40px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
+
 <br />
 <br />
 <hr />
