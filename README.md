@@ -24,7 +24,7 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 [<img height="40" align="left" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
 
 <br>
-
+<br>
 <br>
 
 ## Languages Libraries and Tools 👨‍💻
@@ -45,8 +45,8 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 <br>
-
 <br>
 <br>
+<br><br>
 
 ![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical)
