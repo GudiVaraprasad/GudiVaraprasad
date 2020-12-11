@@ -40,9 +40,7 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <img align="left" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 <img align="left" alt="raspberry" width="40px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" />
-<img align="left" alt="p5js" width="40px" src="https://p5js.org/assets/img/p5js.svg" />
 <img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-<img align="left" alt="canva" width="40px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
 
 <br />
 <br />
