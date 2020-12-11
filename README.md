@@ -1,9 +1,13 @@
 ### Hello Everyone 👋
 # I am Gudi Varaprasad 
 
+<br />
+
 ## About 👨‍🎓
 
 I, Gudi Varaprasad, am an out of the box thinker with substantial skills in various fields. With an avid interest in web security since the age of 14, I have now mastered various technologies, frameworks, and tools. I constantly challenge myself to develop new ideas and apps. Being an all-rounder, I have many hobbies like writing, badminton, editing, dancing, designing. My strong communication skills and leadership abilities have allowed me to take on new endeavors and succeed. I am a guy with a plan of attack and always focus on the upshot rather than the problem. You can reach out to me : [Email me](mailto:gudi.varaprasad@gmail.com)
+
+<br />
 
 ## Connect with **me** 🔗
 
@@ -20,8 +24,6 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 [<img height="40" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
 
 <br />
-<hr />
-
 
 ## Languages Libraries and Tools 👨‍💻
 
@@ -43,4 +45,4 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <img align="left" alt="canva" width="40px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
 
 <br />
-<hr />
+
