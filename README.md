@@ -26,7 +26,7 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <br>
 <br>
 <br>
-<br><br>
+<br>
 
 ## Languages Libraries and Tools 👨‍💻
 
