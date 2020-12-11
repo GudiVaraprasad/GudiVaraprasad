@@ -12,15 +12,15 @@
 
 ## Connect with **me**
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/varaprasad-gudi-0007b4129/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />](https://twitter.com/Gudi_Varaprasad)
-[<img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />](https://www.instagram.com/crypto._kid/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />](https://www.facebook.com/Varaprasad.Gudi/)
-[<img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-logo.svg" />](mailto:gudi.varaprasad@gmail.com)
-[<img height="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" />](https://www.youtube.com/channel/UCR2gr-sBjqnH0gW-Ca6i7Hw?view_as=subscriber)
-[<img height="40" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />](https://dev.to/varaprasad_gudi)
-[<img height="40" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
-[<img height="40" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
+[<img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/varaprasad-gudi-0007b4129/)
+[<img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />](https://twitter.com/Gudi_Varaprasad)
+[<img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/crypto._kid/)
+[<img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />](https://www.facebook.com/Varaprasad.Gudi/)
+[<img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:gudi.varaprasad@gmail.com)
+[<img height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />](https://www.youtube.com/channel/UCR2gr-sBjqnH0gW-Ca6i7Hw?view_as=subscriber)
+[<img height="50" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />](https://dev.to/varaprasad_gudi)
+[<img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />](https://stackoverflow.com/users/13885645/gudi-varaprasad)
+[<img height="50" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />](https://www.quora.com/profile/Gudi-Varaprasad)
 <br />
 <hr />
 
