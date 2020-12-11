@@ -45,5 +45,6 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <img align="left" alt="canva" width="40px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
 
 <br />
+<br />
 
-![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=dark)
+![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical)
