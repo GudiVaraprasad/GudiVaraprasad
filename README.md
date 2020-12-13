@@ -51,3 +51,5 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <br><br>
 
 ![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiVaraprasad&layout=compact)](https://github.com/GudiVaraprasad/github-readme-stats)
