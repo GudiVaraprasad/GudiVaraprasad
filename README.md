@@ -50,12 +50,8 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <br>
 <br><br>
 
-![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical)
-
+![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiVaraprasad&layout=compact&theme=radical)](https://github.com/GudiVaraprasad/github-readme-stats)
-
-[![Gudi Varaprasad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GudiVaraprasad)](https://github.com/GudiVaraprasad/github-readme-stats)
-
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=GudiVaraprasad&repo=Projects&theme=radical)](https://github.com/GudiVaraprasad/Projects)
 
 
