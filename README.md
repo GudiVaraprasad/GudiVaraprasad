@@ -56,6 +56,6 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 
 [![Gudi Varaprasad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GudiVaraprasad&theme=radical)](https://github.com/GudiVaraprasad/github-readme-stats)
 
-[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=GudiVaraprasad&repo=Projects&theme=radical)](https://github.com/anuraghazra/Projects)
+[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=GudiVaraprasad&repo=Projects&theme=radical)](https://github.com/GudiVaraprasad/Projects)
 
 
