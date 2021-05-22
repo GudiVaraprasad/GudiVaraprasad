@@ -2,6 +2,8 @@
 # I am Gudi Varaprasad 
 
 <br>
+![](https://komarev.com/ghpvc/?username=GudiVaraprasad&color=blue)
+<br>
 
 ## About 👨‍🎓
 
