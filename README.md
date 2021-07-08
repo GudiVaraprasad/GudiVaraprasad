@@ -1,5 +1,5 @@
 ### Hello Everyone 👋
-# I am Gudi Varaprasad 
+# I am Gudi Varaprasad  ![](https://komarev.com/ghpvc/?username=GudiVaraprasad&color=blue)
 
 <br>
 
@@ -30,8 +30,4 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 
 ![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiVaraprasad&layout=compact&theme=radical)](https://github.com/GudiVaraprasad/github-readme-stats)
-
-![](https://tryhackme.com/badge/154851)
-
-![](https://komarev.com/ghpvc/?username=GudiVaraprasad&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiVaraprasad&layout=compact&theme=radical)
