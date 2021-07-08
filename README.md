@@ -54,6 +54,6 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiVaraprasad&layout=compact&theme=radical)](https://github.com/GudiVaraprasad/github-readme-stats)
 
-[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=GudiVaraprasad&repo=Projects&theme=radical)](https://github.com/GudiVaraprasad/Projects)
+<script src="https://tryhackme.com/badge/154851"></script>
 
 ![](https://komarev.com/ghpvc/?username=GudiVaraprasad&color=blue)
