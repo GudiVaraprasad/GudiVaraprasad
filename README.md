@@ -26,33 +26,13 @@ I, Gudi Varaprasad, am an out of the box thinker with substantial skills in vari
 <br>
 <br>
 <br>
-<br>
-
-## Languages Libraries and Tools 👨‍💻
-
-<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="40px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
-<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="R" width="40px" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" />
-<img align="left" alt="opencv" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
-<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="bootstrap" width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
-<img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-<img align="left" alt="ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
-<img align="left" alt="raspberry" width="40px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" />
-<img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-
-<br>
-<br>
-<br>
 <br><br>
 
+<p float="left">
 ![Gudi Varaprasad's github stats](https://github-readme-stats.vercel.app/api?username=GudiVaraprasad&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudiVaraprasad&layout=compact&theme=radical)](https://github.com/GudiVaraprasad/github-readme-stats)
+</p>
 
 ![](https://tryhackme.com/badge/154851)
 
